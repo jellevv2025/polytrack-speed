@@ -1,0 +1,9 @@
+{
+  "name": "speed-limit-test",
+  "displayName": "Testing Speeds!",
+  "version": "1.0.0",
+  "description": "Adds a speed boost to your car when holding Shift.",
+  "main": "main.mod.js",
+  "author": "Jelle",
+  "license": "MIT"
+}
